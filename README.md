@@ -1,4 +1,4 @@
-# FMI-OperatingSistems
+# FMI-OperatingSystems
 Studied 2021/2022 (my second year). 
 Here are some homeworks. 
 Homework 0 is just a joke. 
